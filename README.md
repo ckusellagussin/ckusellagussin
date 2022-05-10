@@ -1,8 +1,8 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckusellagussin&theme=github_dark&layout=compact&hide_border=true&card_width=445"/>
 </p>
 <p align="center">
-	<img  src="https://wakatime.com/badge/user/22492a92-5a6d-4d35-8790-5b4d7e857cf9.svg"/>
 	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ckgussin&theme=github_dark&hide_border=true&card_width=445&layout=compact"/></p>
+	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ckgussin&theme=github_dark&hide_border=true&card_width=445"/>
 <p align="center">
 	<img  src="http://github-readme-streak-stats.herokuapp.com?user=ckgussin&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
 
