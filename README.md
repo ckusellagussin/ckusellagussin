@@ -3,7 +3,7 @@
 <p align="center">
 	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ckgussin&theme=github_dark&hide_border=true&card_width=445&layout=compact"/></p>
 	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ckgussin&theme=github_dark&hide_border=true&card_width=445&layout=compact"/></p>
-	<img  src="https://wakatime.com/share/@ckgussin/91ef3a24-fe30-4d63-af91-b534b008b2d3.svg"/></p>
+	<img  src="https://wakatime.com/share/@ckgussin/e1f5b765-b2f3-4c87-860c-a9ae1e7a7611.svg&theme=github_dark&hide_border=true&card_width=445&layout=compact"></p>
 <p align="center">
 	<img  src="http://github-readme-streak-stats.herokuapp.com?user=ckgussin&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
 
