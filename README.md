@@ -1,5 +1,5 @@
 <p>
-	<h2 align="left">My name is Casey Kusella-Gussin and my life's goal is to break into the Video Game Industry</h2>
+	<h2 align="left">My name is Casey Kusella-Gussin and my life's goal is to break into the Video Game Industry as a programmer</h2>
 	<h3>My current projects are: </h3>
 	<h4>Learning Unreal Engine 5</h4>
 	<h4>Learning Python</h4>
