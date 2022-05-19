@@ -3,7 +3,7 @@
 	<h3>My current projects are: </h3>
 	<h4>Learning Unreal Engine 5</h4>
 	<h4>Learning Python</h4>
-	<h4>Furthering my understanding of C++ for applications and video game development (Unreal Engine 5 in particular)</h4>
+	<h4>My biggest project is the preperation of making my own game engine, I am currently just setting up the project and reading many many materials of what is 		required to do this very long and exciting project</h4>
 	<h4>My final university project which was creating a mod for the critically aclaimed simulation game called Rimworld (Created by Ludeon Studios) and is 		programmed in C#.<h4>
 	
 </p>
