@@ -9,12 +9,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ckusellagussin&theme=github_dark&hide_border=true"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckusellagussin&theme=github_dark&layout=compact&hide_border=true&card_width=445"/>
 </p>
-<p align="left">
-	<img  src="https://wakatime.com/share/@ckgussin/c9c44411-d362-41bc-aeca-60034cb2898b.svg" float=left width=50% height=50%/></p>
-</p>
-<p align="left">
-	<img  src="https://wakatime.com/share/@ckgussin/aaff598a-a83c-4966-bbe1-a3d6c1d6fae5.svg" float=left width=50% height=50%/></p>
-</p>
 
 <!---
 ckusellagussin/ckusellagussin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
