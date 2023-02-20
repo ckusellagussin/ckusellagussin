@@ -2,7 +2,8 @@
 	<h2 align="left">My name is Casey Kusella-Gussin and my current life's goal is to break into the Video Game Industry as a programmer</h2>
 	<h3>My current projects are: </h3>
 	<h4>Learning Unreal Engine 5 and making my dream game</h4>
-	<h4>The current project I am working on is made in the Unreal Engine and is what I think my perfect RPG would be.</h4>
+	<h4>Learning C++ syntax</h4>
+	<h4>Creating an interactive website/portfolio</h4>
 	
 </p>
 <img  src="https://github-readme-stats.vercel.app/api?username=ckusellagussin&theme=github_dark&hide_border=true"/>
