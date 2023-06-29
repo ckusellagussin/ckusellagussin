@@ -5,6 +5,7 @@
 	<h4>Learning C++ syntax</h4>
  	<h4>Completing problems on Hackerrank to prepare for interviews</h4>
 	<h3>Please checkout my website and interactive portfolio on the front page if you have a chance!</h3>
+	<h3>https://www.ckusellagussin.com</h3>
 </p>
 
 <!---
